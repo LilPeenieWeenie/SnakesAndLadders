@@ -1,8 +1,0 @@
-Used audio files and image files,
-used resource direcotry and lebeled it as root in order to be able to get the audio and image files,
-Use of record and a hashmap has a key value such as Integer(String, Character, Integer, etc.)
-and then the value points to a value(Can be anylthing we define) / super fast notation HashMap<>()
-0 of 1 it is constant time doesn't matter how big the data set is works same speed, can animate graphics/
-translate them. We can also control the speed of the translation have to make a translationTransition object
-then send a duration object to it, could have slplayer code inside of snake ladder game however it alowed
-for better organization
